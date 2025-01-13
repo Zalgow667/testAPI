@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "testAPI",
+			"path": "../.."
+		},
+		{
+			"name": "config",
+			"path": "../../../emncAPI/config"
+		}
+	],
+	"settings": {}
+}

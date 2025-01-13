@@ -2,7 +2,7 @@ import express from 'express';
 import morgan from 'morgan';
 import helmet from 'helmet';
 import cors from 'cors';
-import { sequelize } from './models';
+import sequelize from './models';
 
 import * as middlewares from './middlewares';
 import reservationsRoutes from './api/reservations';
